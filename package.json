@@ -9,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mcilhaggis/readme-generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Mcilhaggis/readme-generator/issues"
+  },
+  "homepage": "https://github.com/Mcilhaggis/readme-generator#readme"
 }
