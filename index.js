@@ -45,7 +45,7 @@ function init() {
         {
             type:'input',
             name:'tests',
-            message:'Write what tests should be done:',//is that the corectthing to ask?
+            message:'Write what tests should be done?',
         },
         {
             type:'input',
@@ -94,7 +94,7 @@ ${data.usage}
 ## Licensing 
 The licensing used for this project is ${data.licensing}
 
-## Contributions 
+## Contributing 
 ${data.contributing}
     
 ## Tests
