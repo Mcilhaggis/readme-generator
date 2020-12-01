@@ -1,10 +1,8 @@
-# Project Title: day-scheduler 
-https://img.shields.io/badge/License%3A-MIT-blue.svg
-## Project Description
-no
+# Project Title: Day Scheduler 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## Screenshot
-![Screenshot of day-scheduler.](https://github.com/mcilhaggis/day-scheduler/blob/main/assets/screenshot-scheduler.png) "Screenshot of day-scheduler")
+## Project Description
+This password generator project is built using HTML, CSS, and Javascript. The aim of this project was to create a calendar application that allows a user to save events for each hour of the day by modifying the starter code given. It runs in a browser and has dynamically updated HTML and CSS powered by jQuery.
 
 ## Table of Contents
 * [Description](#description)
@@ -20,16 +18,16 @@ no
 undefined
 
 ## Usage
-
+The project is user in the browser and accepts user input, then stores it in their local storage.
 
 ## Licensing 
 The licensing used for this project is MIT
 
 ## Contributing 
-
+Rachael McIlhagga
     
 ## Tests
-
+Not applicable
     
 ## Questions
-* If you have any questions about this project, please reach out to me  through <a href="https://github.com/mcilhaggis">Github</a>  or via <a href="mailto:email@email">Email</a>
+* If you have any questions about this project, please reach out to me  through <a href="https://github.com/mcilhaggis">Github</a>  or via <a href="mailto:rachael.mcilhagga@live.co.uk">Email</a>
