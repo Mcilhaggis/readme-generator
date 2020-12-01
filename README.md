@@ -1,6 +1,5 @@
 # Project Title: README Generator 
-https://img.shields.io/badge/License-MIT-blue.svg
-https://img.shields.io/badge/license-MIT-blue
+https://img.shields.io/static/v1?label=license&message=MIT&color=blue
 
 ## Project Description
 This project is built using **Node.js**. The aim of this project was to take user input to create a README generator that can be used multiple times to create a README file that is high quality and detailed.
