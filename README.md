@@ -18,8 +18,8 @@ This project is built using **Node.js**. The aim of this project was to take use
 ![Screenshot of README Generator in the terminal.](/assets/screenshot-1.png "Screenshot of README Generator in the terminal.")
 
 ## Video Demonstration
-Below is a video demonstraition of the project in action. 
-![Video of README Generator in the terminal.](/assets/README-Generator-video.webm "Video of README Generator in the terminal.")
+Below is a video demonstraition of the project in action:
+https://drive.google.com/file/d/18VEoo5ZjFNxayAI-1FVttwJZzLBNwFBg/view?usp=sharing
 
 
 ## Usage
