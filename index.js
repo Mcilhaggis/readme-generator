@@ -17,6 +17,17 @@ function init() {
         },
         {
             type:'confirm',
+            name:'screenshot',
+            message:'Do you have a URL of the live program?',
+        }, {
+            when: function (response) {
+               return response.screenshot;
+        },      name: 'screenshotURL',
+                type:'input',
+                message:'Insert the image URL here (Note: you must add your github username in a later question):'
+            },
+        {
+            type:'confirm',
             name:'installation',
             message:'Does your project require installation?',
         }, {
@@ -77,7 +88,12 @@ https://img.shields.io/badge/License%3A-${data.licensing}-blue.svg
 ## Project Description
 ${data.description}
 
+## Screenshot
+![Screenshot of ${data.title}.](https://github.com/${data.github}/${data.title}/${data.screenshotURL}) "Screenshot of ${data.title}")
+
 ## Table of Contents
+* [Description](#description)
+* [Screenshot](#screenshot)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Licensing](#licensing)
