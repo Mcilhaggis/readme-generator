@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-
+//TESTING CONNECTION TO NEW LAPTOP
 
 // function to initialize program and ask the questions
 function init() {
